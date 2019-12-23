@@ -8,7 +8,7 @@
   html {
     height: 100%;
     background: white;
-    background: radial-gradient(circle, #fff 20%, #ccc);
+    background: radial-gradient(circle, #FFCFC5 20%, #F2F3BC);
     background-size: cover;
   }
 
@@ -18,7 +18,7 @@
     margin: 30px auto;
     padding: 20px 20px 9px;
     background: #9dd2ea;
-    background: linear-gradient(#FFCFC5, #F2F3BC);
+    background: linear-gradient(#9dd2ea, #8bceec);
     border-radius: 3px;
     box-shadow: 0px 4px #009de4, 0px 10px 15px rgba(0, 0, 0, 0.2);
   }
