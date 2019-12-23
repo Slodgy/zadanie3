@@ -27,11 +27,12 @@
     text-align: center;
     margin-top: 60px;
     color: #F5F2F0;
+    text-shadow: 1px 1px 2px black, 0 0 1em red;
   }
 
   h1:hover {
     color: white;
-    transition: 2s;
+    transition: all 0.2s ease
   }
 
   .top span.clear {
